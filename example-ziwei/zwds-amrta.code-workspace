@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../xa-master"
+		},
+		{
+			"path": "../../astro-master"
+		}
+	],
+	"settings": {}
+}
